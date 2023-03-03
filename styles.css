@@ -2,12 +2,13 @@
 /* Your CSS Code here. */
 div{max-width: 600px;
 margin: 10px;
-padding: 15px;
+/* padding: 15px; */
 
 background-color: #f8fffe;
 font-weight: bold
 	
 }
 blockquote{
+	padding: 15px;
 	border-left: 8px solid green;
 }
